@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+just checking out how it works
+s/w engineer who doesnt know coding
